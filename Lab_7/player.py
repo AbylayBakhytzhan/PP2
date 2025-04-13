@@ -19,9 +19,9 @@ GRAY = (40, 40, 40)
 
 
 playlist = [
-    "/Users/alikhan/PycharmProjects/PP2_Alikhan/Labs/lab_7/songs/Dreamcatcher.mp3",
-    "/Users/alikhan/PycharmProjects/PP2_Alikhan/Labs/lab_7/songs/Impossible.mp3",
-    "/Users/alikhan/PycharmProjects/PP2_Alikhan/Labs/lab_7/songs/MariaImDrunk.mp3"
+    "/Users/55555/PP2/Lab_7/songs/Dreamcatcher.mp3",
+    "/Users/55555/PP2/Lab_7/songs/1.mp3",
+    "/Users/55555/PP2/Lab_7/songs/MariaImDrunk.mp3"
 ]
 
 current_track = 0
